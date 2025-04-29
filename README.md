@@ -28,6 +28,4 @@ A Python-based application that allows users to search for flights, book tickets
 - **MVC Architecture** (for clean code organization)  
 
 ## Contributing  
-Feel free to open issues or submit pull requests to improve the project
-
-🚀 **Happy Booking!**
+Feel free to open issues or submit pull requests to improve the project.
