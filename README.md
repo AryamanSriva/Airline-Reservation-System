@@ -16,7 +16,7 @@ A Python-based application that allows users to search for flights, book tickets
 - Make, update or cancel reservations.  
 - Process payments securely.  
 
-🔹 **Database Integration**  
+**Database Integration**  
 - MySQL-powered backend to store flights, users and reservations.  
 - Optimized queries for faster search and booking.  
 
