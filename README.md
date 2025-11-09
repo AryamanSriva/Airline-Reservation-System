@@ -26,4 +26,3 @@ A Python-based application that allows users to search for flights, book tickets
 - **APIs** (for real-time pricing)  
 - **MVC Architecture** (for clean code organization)  
 
-## Contributing  
