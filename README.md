@@ -1,6 +1,6 @@
 # Airline Reservation System
 
-A Python-based application that allows users to search for flights, book tickets and manage reservations seamlessly through a command-line interface. Built with OOP principles, it uses **MySQL** for database management.  
+A Python-based application that allows users to search for flights, book tickets and manage reservations seamlessly through a command-line interface. Built with OOP principles, it uses MySQL for database management.  
 
 ## Features  
 **User & Admin Roles**  
