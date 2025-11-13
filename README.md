@@ -4,7 +4,7 @@ A Python-based application that allows users to search for flights, book tickets
 ## Features  
 **User & Admin Roles**  
 - Customers can search flights, book tickets and manage reservations
-- Admins can add, update and remove flights from the system.  
+- Admins can add, update and remove flights from the system
 
 **Flight Management**  
 - View available flights.  
