@@ -7,7 +7,7 @@ A Python-based application that allows users to search for flights, book tickets
 - Admins can add, update and remove flights from the system
 
 **Flight Management**  
-- View available flights.  
+- View available flights
 - Search for direct and connecting flights.  
 - Retrieve ticket prices using APIs.  
 
