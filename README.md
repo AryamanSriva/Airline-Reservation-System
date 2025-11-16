@@ -12,7 +12,7 @@ A Python-based application that allows users to search for flights, book tickets
 - Retrieve ticket prices using APIs
 
 **Reservation System**  
-- Make, update or cancel reservations.  
+- Make, update or cancel reservations
 - Process payments securely.  
 
 **Database Integration**  
