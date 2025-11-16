@@ -8,8 +8,8 @@ A Python-based application that allows users to search for flights, book tickets
 
 **Flight Management**  
 - View available flights
-- Search for direct and connecting flights.  
-- Retrieve ticket prices using APIs.  
+- Search for direct and connecting flights
+- Retrieve ticket prices using APIs
 
 **Reservation System**  
 - Make, update or cancel reservations.  
