@@ -13,7 +13,7 @@ A Python-based application that allows users to search for flights, book tickets
 
 **Reservation System**  
 - Make, update or cancel reservations
-- Process payments securely.  
+- Process payments securely
 
 **Database Integration**  
 - MySQL-powered backend to store flights, users and reservations.  
